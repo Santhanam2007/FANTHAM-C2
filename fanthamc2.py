@@ -4,7 +4,7 @@ import threading
 import base64
 
 
-# ASCII Art Banner
+
 def display_banner():
     banner = """
     ███████╗ █████╗ ███╗   ██╗████████╗██╗  ██╗ █████╗ ███╗   ███╗
