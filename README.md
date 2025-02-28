@@ -6,4 +6,4 @@
 # sudo python3 fantham.py --port <port_number>
 # bash payload is for linux only and don't use in windows , it won't work 
 # powershell is for both windows 10 and windows 11
-# 'off' the defender and use it. It will work 100%. then 'on' the defender, still u will reverse shell connection.
+# 'off' the defender and use it. It will work 100%. then 'on' the defender, still u will get reverse shell connection.
